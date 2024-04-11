@@ -1,7 +1,7 @@
 # Diabetes Prediction Model
 
 This project implements a machine learning model to predict the likelihood of diabetes based on certain medical measurements. The model is trained on the Pima Indians Diabetes Dataset.
-It was so hard thank goodness youtube videos exists and also it was thankfully six steps. 
+It was so hard thank goodness youtube video exists and also it was thankfully six steps. 
 
 ## Usage
 
