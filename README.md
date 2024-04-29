@@ -9,7 +9,7 @@ To use the diabetes prediction model:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/diabetes-prediction.git
+   git clone https://github.com/Elena440Hz/diabetes-prediction.git
    ```
 2. Navigate to the project directory:
    ```bash
